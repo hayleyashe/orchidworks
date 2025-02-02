@@ -7,9 +7,8 @@ sections:
     variant: variant-a
     title: Subjects
     subtitle: So what do you need help with today?
-    text: >-
-      Start adding sections by clicking the + button on the page or through the
-      sidebar.
+    text: |
+      \---------------------------------
     elementId: ''
     styles:
       self:
