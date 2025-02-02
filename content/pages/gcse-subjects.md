@@ -36,7 +36,7 @@ sections:
           Direct access to everything you need to become a top-rated CS sweat!
         actions:
           - type: Button
-            label: ''
+            label: sj
             altText: ''
             url: /
             showIcon: true
