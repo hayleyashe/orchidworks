@@ -15,9 +15,9 @@ sections:
     backgroundSize: full
     title: Proper revision. made by a student. for students.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Test tomorrow? Not confident on your topic? Anxious for your mocks? You've
+      come to the right place. Peonyworks exercises your brain- ensuring you're
+      ready for anything.
     styles:
       self:
         height: auto
