@@ -6,7 +6,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: GCSE Subjects
-    subtitle: The section subtitle
+    subtitle: So what do you need help with today?
     text: >-
       Start adding sections by clicking the + button on the page or through the
       sidebar.
