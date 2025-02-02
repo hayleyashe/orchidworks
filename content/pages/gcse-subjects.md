@@ -33,10 +33,8 @@ sections:
       - type: FeaturedItem
         title: Computer Science
         subtitle: Python..C+...C++..Boolean..huh??
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: |
+          Direct access to everything you need to become a top-rated CS sweat!
         actions:
           - type: Button
             label: ''
