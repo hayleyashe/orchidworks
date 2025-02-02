@@ -28,7 +28,7 @@ sections:
       text:
         textAlign: left
   - type: FeaturedItemsSection
-    title: Value propositions
+    title: GCSE Subjects
     items:
       - type: FeaturedItem
         title: Computer Science
