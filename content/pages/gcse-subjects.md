@@ -32,7 +32,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Computer Science
-        subtitle: ''
+        subtitle: Python..C+...C++..Boolean..huh??
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
