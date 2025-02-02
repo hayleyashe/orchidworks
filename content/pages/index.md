@@ -126,6 +126,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
+    title: Peonytalks
   - type: ContactSection
     colors: colors-d
     backgroundSize: full
