@@ -39,13 +39,6 @@
             "self": {
                 "width": "full"
             }
-        },
-        "logo": {
-            "type": "ImageBlock",
-            "url": "/images/peonyworks (1).png",
-            "altText": "altText of the image",
-            "caption": "Caption of the image",
-            "elementId": ""
         }
     },
     "footer": {
