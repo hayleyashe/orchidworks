@@ -127,7 +127,7 @@ sections:
       actions:
         justifyContent: flex-end
   - type: ContactSection
-    colors: colors-f
+    colors: colors-d
     backgroundSize: full
     title: "Want to be a revision superstar? Sign up to Peonynotes...\U0001F4AC"
     form:
